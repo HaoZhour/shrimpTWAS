@@ -43,4 +43,5 @@ For more details or assistance, please refer to the Fusion documentation.
 
 If you have any questions or need further assistance, feel free to contact us.
 
-zhouhao@ysfri.ac.cn
+Haozhou：zhouhao@ysfri.ac.cn
+Shengluan：luansheng@ysfri.ac.cn
