@@ -18,7 +18,7 @@ This document outlines the steps for Transcriptome-Wide Association Study (TWAS)
 3. **TWAS Analysis with Fusion:**
    - Use the following command to input the files into the Fusion package:
      ```bash
-     Rscript FUSION.assoc_modified.R \
+     Rscript FUSION.assoc.R \
         --sumstats <input_sumstats_file> \
         --weights <RDat.list> \
         --force_model top1 \
