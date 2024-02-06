@@ -7,7 +7,7 @@
 This document outlines the steps for Transcriptome-Wide Association Study (TWAS) analysis using the Fusion package. Please follow the instructions below:
 
 1. **GWAS Analysis with rMVP:**
-   Perform a Genome-Wide Association Study (GWAS) analysis using rMVP, and generate the corresponding GWAS Summary file.
+   Perform a Genome-Wide Association Study (GWAS) analysis using rMVP, and generate the corresponding GWAS Summary file. Here we recommend using rMVP for GWAS analysis as it produces a Summary file that is compatible with to_sumstats.py.
 
 2. **Conversion to Sumstats Format:**
    Utilize the `to_sumstats.py` script to convert the generated GWAS Summary file into the required sumstats format. Use the following parameters:
